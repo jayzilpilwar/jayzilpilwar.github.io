@@ -1,7 +1,7 @@
 
 ### Hi there, I am Anwar <img align="left" alt="high" width="30px" height="30px" src="https://github.com/anwarshaikh078/anwarshaikh.me/blob/main/images/waving_hand.gif" />
 
-- 🌱 I’m currently learning Spark
+- :book: I’m currently learning Spark
 - 👯 I’m looking to collaborate with geeky minds
 - 🥅 2022 Goals: Deep Dive into Big Data Technologies
 - 📫 How to reach me: [Portfolio](http://anwarshaikh078.github.io/anwarshaikh.me)
@@ -22,7 +22,6 @@
 ### Languages and Tools:
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />
 
-react.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
