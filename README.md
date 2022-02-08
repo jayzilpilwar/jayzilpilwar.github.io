@@ -1,6 +1,6 @@
 # anwarshaikh.github.io
 
-### Hi there, I am Anwar <img align="left" alt="high" width="30px" height="30px" src="https://github.com/anwarshaikh.github.io/images/waving_hand.gif" />
+### Hi there, I am Anwar <img align="left" alt="high" width="30px" height="30px" src="https://raw.githubusercontent.com/anwarshaikh.github.io/images/waving_hand.gif" />
 
 - 🌱 I’m currently learning Spark
 - 👯 I’m looking to collaborate with geeky minds
@@ -28,7 +28,7 @@ react.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GCP" width="26px" src="https://github.com/anwarshaikh.github.io/images/gcp.png" />
+<img align="left" alt="GCP" width="26px" src="https://raw.githubusercontent.com/anwarshaikh.github.io/images/gcp.png" />
 
 <br/>
 <br/>
