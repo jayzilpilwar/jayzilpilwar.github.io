@@ -1,4 +1,3 @@
-# anwarshaikh.github.io
 
 ### Hi there, I am Anwar <img align="left" alt="high" width="30px" height="30px" src="https://github.com/anwarshaikh078/anwarshaikh.me/blob/main/images/waving_hand.gif" />
 
