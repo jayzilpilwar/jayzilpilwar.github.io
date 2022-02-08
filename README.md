@@ -1,6 +1,6 @@
 # anwarshaikh.github.io
 
-### Hi there, I am Shreyas <img align="left" alt="high" width="30px" height="30px" src="https://github.com/ShreyasSubhedar/ShreyasSubhedar/blob/master/waving_hand.gif" />
+### Hi there, I am Anwar <img align="left" alt="high" width="30px" height="30px" src="https://github.com/ShreyasSubhedar/ShreyasSubhedar/blob/master/waving_hand.gif" />
 
 - 🌱 I’m currently learning Spark
 - 👯 I’m looking to collaborate with geeky minds
@@ -45,8 +45,8 @@
 
 ---
 
-<img align="left" alt="Shreyas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ShreyasSubhedar&show_icons=true&hide_border=true&theme=light&hide_title=true&include_all_commits=true&count_private=true" />
-<img align="left" alt="Shreyas's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyasSubhedar&hide_border=true&hide=Jupyter Notebook,HTML,CSS" />
+<img align="left" alt="Shreyas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anwarshaikh078&show_icons=true&hide_border=true&theme=light&hide_title=true&include_all_commits=true&count_private=true" />
+<img align="left" alt="Shreyas's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anwarshaikh078&hide_border=true&hide=Jupyter Notebook,HTML,CSS" />
 
 </br>
 </br>
@@ -58,16 +58,11 @@
 ---
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shreyassubhedar&repo=DevOps-Scaling-Automation-In-Swarm)](https://github.com/ShreyasSubhedar/DevOps-Scaling-Automation-In-Swarm)
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shreyassubhedar&repo=Github-Automation)](https://github.com/ShreyasSubhedar/Github-Automation)
-
-[website]: http://shreyassubhedar.rf.gd
-[hackerrank]: https://www.hackerrank.com/ShreyasXO
-[codechef]: https://www.codechef.com/users/shreyas22
-[docker]: https://hub.docker.com/u/shreyasxo
-[linkedin]: https://www.linkedin.com/in/shreyas-subhedar-60820414b/
+[website]: http://anwarshaikh078.github.io/anwarshaikh.me
+[hackerrank]: https://www.hackerrank.com/anwarshaikh078
+[linkedin]: https://www.linkedin.com/in/anwarshaikh078/
 
 <!--
 **ShreyasSubhedar/ShreyasSubhedar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -75,6 +70,11 @@
 Here are some ideas to get you started:
 <img src="https://github.com/ShreyasSubhedar/ShreyasSubhedar/blob/master/waving_hand.gif" width="40px" height="40px">
 
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shreyassubhedar&repo=DevOps-Scaling-Automation-In-Swarm)](https://github.com/ShreyasSubhedar/DevOps-Scaling-Automation-In-Swarm)
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shreyassubhedar&repo=Github-Automation)](https://github.com/ShreyasSubhedar/Github-Automation)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
