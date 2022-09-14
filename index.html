@@ -137,17 +137,17 @@
 					<div class="col-md-9">
 					  <div id="page-1" class= "page one">
 					  	<h2 class="heading">Education</h2>
-					    <!--<div class="resume-wrap d-flex ftco-animate">
+					    <div class="resume-wrap d-flex ftco-animate">
 					    	<div class="icon d-flex align-items-center justify-content-center">
 								<img style="border-radius: 50%;" height=60 width=60 src="images/gsu.jpg">
 					    	</div>
 					    	<div class="text pl-3">
-		    					<span class="date">Fall 2020 - Ongoing</span>
-		    					<h2>Master’s Degree In Computer Science</h2>
+		    					<span class="date">Fall 2022 - Ongoing</span>
+		    					<h2>Master’s Degree In Information Systems - BigData analytics</h2>
 		    					<span class="position">Georgia State University</span>
-								<p>Course Work: Design and Analysis of Algorithms, Fundamentals of Data Science, Machine Learning, Data Vizualization, Advanced Databases, Natural Language Processing</p>
+								<p>Course Work: BigData analytics - Machine Learning, Data Programming for analytics, BigData Infrastructure, Advanced AI, Information Technology Project Management,Process Innovation,Fundamentals of Database Management Systems,Security and Privacy of Information and Information Systems</p>
 	    					</div>
-	    				</div>-->
+	    				</div>
 	    				<div class="resume-wrap d-flex ftco-animate">
 	    					<!--<div class="icon d-flex align-items-center justify-content-center"> -->
 								<img background=white height=40 width=60 src="images/mgm-u-logo.png">
@@ -325,6 +325,23 @@
 					  </div>
             <div id="page-6" class= "page six" >
 					  	<h2 class="heading">Projects</h2>
+
+              <div class="resume-wrap d-flex ftco-animate">
+                <div class="text pl-3">
+                  <h2>Building ETL pipeline and performing Sentiment Analysis on IPL 2022 Twitter data</h2>
+                  <span class="date">Mar 2022 - Jul 2022</span>
+                  <ul>
+                    <li>
+                    Use Case: The user wants to capture IPL 2022 tweets at a rate of 1000 every 5min. Just so to get an understanding of how the APIs work, and later load and persist this data to a table to perform some analysis and Visualization on top of it. While loading the data he also wants to give sentiment scores to each tweet, if it is positive, negative, or neutral tweet.
+                    </li>
+                    <li>
+                    Proposed Solution: The solution involves using a cloud scheduler, which publishes messages to cloud pubsub every 5min in the given window. The pubsub receives these messages and triggers the cloud functions. The cloud function is the principal component in use, it will connect to Twitter API, bring tweets, clean them, and give polarity scores to identify the sentiment for the tweet. Once all this is done, it will store the data in google cloud storage and load the updated data frame to a big query. Data Studio, will connect with bigquery and give you the visualizations.
+                    </li>
+                  </ul>
+                  <span><a href="https://medium.com/plumbersofdatascience/building-etl-pipeline-and-performing-sentiment-analysis-on-ipl-2022-twitter-data-f488e038d66a">View</a></span>
+                </div>
+              </div>              
+
               <div class="resume-wrap d-flex ftco-animate">
                 <div class="text pl-3">
                   <h2>Emotion Recognition</h2>
